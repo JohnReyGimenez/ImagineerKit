@@ -1,6 +1,6 @@
 # 🐢 Turtly Kits
 
-**Turtly** is an educational platform that combines a visual programming app with easy-to-assemble robotics kits. Designed for primary students and private schools, it helps young learners explore logic, problem-solving, and engineering through play.
+**Turtly** is an educational platform that combines a visual programming app with easy-to-assemble robotics kits. Designed for lower primary students and private schools, it helps young learners explore their creativity, problem-solving, and engineering through play.
 
 ## Project Goals
 
