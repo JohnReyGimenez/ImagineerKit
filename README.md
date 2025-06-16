@@ -22,7 +22,7 @@
 - **Backend**: Ruby on Rails API
 - **Hardware**: Arduino + Bluetooth + 3D-printed robot kit
 - **Database**: PostgreSQL
-- **Deployment**: Fly.io / Netlify / GitHub Pages
+- **Deployment**: Self-hosted on VPS
 
 ## Status
 
