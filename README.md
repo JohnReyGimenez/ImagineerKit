@@ -1,4 +1,7 @@
-# 🐢 Turtly Kits
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/JohnReyGimenez/Turtly-Kits/main/media/Logo.png" width="28" />
+  Turtly Kits
+</h1>
 
 **Turtly** is an educational platform that combines a visual programming app with easy-to-assemble robotics kits. Designed for lower primary students and private schools, it helps young learners explore their creativity, problem-solving, and engineering through play.
 
