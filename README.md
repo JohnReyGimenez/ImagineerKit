@@ -1,7 +1,8 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/JohnReyGimenez/turtly-platform/main/media/Logo.png" width="69" style="display: inline-block; vertical-align: middle;" />
-  <span style="vertical-align: middle;">Turtly Kits</span>
+  <img src="https://raw.githubusercontent.com/JohnReyGimenez/turtly-platform/main/media/Logo.png" width="69" style="vertical-align: middle;" />
+  Turtly Kits
 </h1>
+
 
 
 **Turtly** is an educational platform that combines a visual programming app with easy-to-assemble robotics kits. Designed for lower primary students and private schools, it helps young learners explore their creativity, problem-solving, and engineering through play.
