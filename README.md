@@ -1,6 +1,6 @@
 <h1>
   <span style="display: inline-block; vertical-align: middle;">
-    <img src="https://raw.githubusercontent.com/JohnReyGimenez/turtly-platform/main/media/Logo.png" width="48" />
+    <img src="https://raw.githubusercontent.com/JohnReyGimenez/turtly-platform/main/media/Logo.png" width="69" />
   </span>
   <span style="display: inline-block; vertical-align: middle; font-size: 2em; font-weight: bold; margin-left: 8px;">
     Turtly Kits
