@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/JohnReyGimenez/turtly-platform/main/media/Logo.png" width="72" style="display: inline-block; vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/JohnReyGimenez/turtly-platform/main/public/Logo.png" width="72" style="display: inline-block; vertical-align: middle;" />
   <span style="vertical-align: middle;">Turtly Kits</span>
 </h1>
 
