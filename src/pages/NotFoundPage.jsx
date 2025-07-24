@@ -1,3 +1,5 @@
+import { link } from "react-router-dom"
+
 const NotFoundPage = () => {
     return (
         <div>
